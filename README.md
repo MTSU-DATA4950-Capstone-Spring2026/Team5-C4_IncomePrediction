@@ -1,23 +1,24 @@
-# [Project Name] - Team [X]
+# [Income Prediction] - Team [5]
 
 **DATA 4950 Data Science Capstone | Spring 2026**
 
-**Team Members:** [List your names here]
+**Team Members:** [Anastasia Sidorova and Paola Cancino]
 
 ---
 
 ## Project Overview
 
-[Write 2-3 sentences describing your project. What problem are you solving? What data are you using?]
+[This project builds a classification model to predict whether annual income of an individual exceeds $50K/yr based on census data.
+The model uses U.S. Census uses variables such as age, workclass, education, martital status, occupation, relationship, race, sex, capiatl-gain, capital-loss, hours-per-week, native-country, and income.]
 
 ## Dataset
 
 | Item | Description |
 |------|-------------|
-| **Source** | [Where did you get the data?] |
-| **Size** | [How many rows and columns?] |
-| **Target Variable** | [What are you predicting?] |
-| **Task Type** | [Classification / Regression] |
+| **Source** | [UC Irvine Machine Learning Repository] |
+| **Size** | [This dataset has 15 columns and 48842 rows.] |
+| **Target Variable** | [Income is our target variable.] |
+| **Task Type** | [This is a classification problem.] |
 
 ## Repository Structure
 
